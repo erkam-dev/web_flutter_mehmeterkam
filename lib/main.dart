@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_mehmeterkam_website/ui/themes.dart';
+import 'package:flutter_mehmeterkam_website/theme/themes.dart';
 import 'pages/homepage.dart';
 
 void main() {
